@@ -1,0 +1,10 @@
+[
+	{
+		"id":"news",
+		"title":"Barcode Scanner",
+		"image":"img/qr.png",
+		"feed_sources":[
+
+		]
+	}
+]
