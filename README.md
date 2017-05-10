@@ -55,7 +55,7 @@ $ ionic package <MODE> <PLATFORM>
 
 For more help use ```$ ionic --help``` or visit the Ionic docs: http://ionicframework.com/docs
 
-Any questions regarding RingRingApp do not hesitate to,
+Any questions regarding RingRingApp please,
 contact me: ed.amin@zi.com.my (Zen's Inno iOS .Sr Developer)
 
 You can find the documentation here: http://zi.com.my/dev/ringringapp
