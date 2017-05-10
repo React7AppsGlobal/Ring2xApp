@@ -1,4 +1,4 @@
-Your RingRingApp ionic project(ios/android) Some quick tips:
+RingRingApp ionic project(ios/android) Some quick tips:
 
 * this is build with mac osx machine need to install node.js npm cli:
 
