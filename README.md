@@ -61,25 +61,26 @@ contact me: ed.amin@zi.com.my (Zen's Inno iOS .Sr Developer)
 You can find the documentation here: http://zi.com.my/dev/ringringapp
 
 ## Impressions
-
+* ionic cordova installation with npm-cli $ sudo npm -g install ionic cordova
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/cli.png">
-cli ionic cordova installation $ sudo npm -g install ionic cordova
-Splash Page
+* Splash Page
+<img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/splashpage.png">
+* Login (Sign In)
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/signin.png">
-Splash Page
+* Login (Phone Sign In)
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/phonesignin.png">
-Sign Up (Phone)
+* Sign Up 
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/signup.png">
-Dign Up (Email)
+* QR Barcode Scanner
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/qrbarcodescan.png">
-Barcode Scanner (Components)
+* Side Menu
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/sidemenu.png">
-Mobile Side Menu Navigation
+* Settings (Side Menu)
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/settings.png">
-Settings (Side Menu)
+* Side Navigation (Main Menu)
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/mainmenu.png">
-Mobile Main Menu Navigation
+* Edit Personal Details
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/editpersonal.png">
-Edit Settings
+* About App Page : Profile
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/aboutapp.png">
-About App Page : Profile
+
