@@ -63,15 +63,15 @@ You can find the documentation here: http://zi.com.my/dev/ringringapp
 ## Impressions
 * ionic cordova installation with npm-cli $ sudo npm -g install ionic cordova
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/cli.png">
-* Splash Page
-<img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/splashpage.png">
+* Splash Page Animation Intro
+<img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/splashanimpage.png">
 * Login (Sign In)
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/signin.png">
 * Login (Phone Sign In)
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/phonesignin.png">
 * Sign Up 
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/signup.png">
-* QR Barcode Scanner
+* QR Barcode Scanner (Home)
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/qrbarcodescan.png">
 * Side Menu
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/sidemenu.png">
