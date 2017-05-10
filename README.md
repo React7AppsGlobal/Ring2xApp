@@ -63,3 +63,4 @@ You can find the documentation here: http://zi.com.my/dev/ringringapp
 ## Impressions
 
 <img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/cli.png">
+<img src="https://github.com/ecma73/Ring2xApp/blob/master/www/img/splashanimpage.png">
